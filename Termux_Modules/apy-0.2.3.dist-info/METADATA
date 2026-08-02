@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: apy
+Version: 0.2.3
+Summary: Pythonic API development with flask
+Home-page: https://github.com/stephenyoung/apy/wiki
+Author: Stephen Young
+Author-email: stephen@tryllo.com
+Requires-Dist: flask>=0.8.0
+Requires-Dist: oauth2>=1.5
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
